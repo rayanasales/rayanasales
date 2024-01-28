@@ -1,6 +1,7 @@
-Hey there! I am Rayana Sales, welcome to my secondary GitHub space! </br>
-For all the cool stuff, head over to my main account:
-🌟 [RayanaSales](https://github.com/RayanaSales) 🌟
+Hello, World! 👋🌍 </br>
 
-This GitHub account was created for working on ThoughtWorks confidential projects 🤫🤐 </br>
-Feel free to explore here, but remember, the main show is over at [RayanaSales](https://github.com/RayanaSales)! See you there!
+I am Rayana Sales - welcome to my secondary GitHub space! This account was created due collaboration on confidential projects from ThoughtWorks 🤫🤐 </br>
+
+### For all the cool stuff, head over to my main account
+[![Main GitHub](https://img.shields.io/badge/-RayanaSales's%20Main%20GitHub-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RayanaSales) </br>
+🚀 Catch you on the flip side, where the real magic happens! 🌟
