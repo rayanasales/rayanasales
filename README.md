@@ -1,7 +1,7 @@
 👋 Hi, I’m Rayana Sales</br>
 💡 Software Developer | Problem Solver | LeetCode Enthusiast</br>
 👀 I’m interested in React, Vue.js, Next.js, Node.js</br>
-🌱 I’m currently learning Typescript</br>
+🌱 I’m currently learning Python and Django</br>
 🎸 I really enjoy: traveling, live concerts, traveling to watch live concerts</br>
 💞️ I’m looking to collaborate on ¯_(ツ)_/¯ - have an idea?</br> 
 
